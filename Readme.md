@@ -1,5 +1,5 @@
 # Readme
-[![Build Status](https://travis-ci.org/michaelliao/openweixin.svg?branch=master)](https://travis-ci.org/michaelliao/openweixin)
+[![Build Status](https://www.travis-ci.org/loosenRogers/exercise2.svg?branch=master)](https://www.travis-ci.org/loosenRogers/exercise2)
 
 ### 步骤
 
