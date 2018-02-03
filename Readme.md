@@ -1,4 +1,5 @@
 # Readme
+[![Build Status](https://travis-ci.org/michaelliao/openweixin.svg?branch=master)](https://travis-ci.org/michaelliao/openweixin)
 
 ### 步骤
 
@@ -21,7 +22,7 @@ npm install
 mocha
 ```
 
-* 打开 `./test/test.js` 修改 `./lib/add.js` 跑通测试用例 
+* 打开 `./test/test.js` 修改 `./lib/add.js` 跑通测试用例
 
 * 提交github，尝试接入Travis CI
 
